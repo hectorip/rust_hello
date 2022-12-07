@@ -12,3 +12,9 @@ Some projects that I want to try:
 - Something difficult, like cryptography, Zero-trust protocols, bloclchain, etc, would be awesome
 
 Now let's get started!
+
+## Some resources
+
+- Learning Rust the wrong way
+- [Test-driven api Design with Rust](https://www.youtube.com/watch?v=bnnacleqg6k)
+-
