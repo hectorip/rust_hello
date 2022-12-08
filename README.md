@@ -15,6 +15,19 @@ Now let's get started!
 
 ## Some resources
 
-- Learning Rust the wrong way
+These are some interesting talks:
+
+- [Learning Rust the wrong way - Ólafur Waage](https://www.youtube.com/watch?v=DL9LANLg5EA)
 - [Test-driven api Design with Rust](https://www.youtube.com/watch?v=bnnacleqg6k)
--
+
+Courses and Books:
+
+- [rustlings](https://github.com/rust-lang/rustlings/)
+- [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
+- [Rust Ultimate Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
+- [Take your first Steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+
+Spanish Resources:
+
+- [Aprende Rust](https://www.rust-lang.org/es/learn)
+- []()
